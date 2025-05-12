@@ -1,6 +1,8 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
+# DEVELOPED BY: RAMSANJAY C
+
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
